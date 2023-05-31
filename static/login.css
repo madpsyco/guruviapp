@@ -1,0 +1,23 @@
+
+.containerlogin{
+    margin:auto;
+    margin-top:200px;
+    width:30%;
+    color:black;
+    border-radius: 3px;
+    background: #ebedef;
+    padding:20px;
+
+
+}
+input{
+    width:70%;
+    background:white;
+    color:black;
+
+}
+@media only screen and (max-width: 600px) {
+  .containerlogin {
+    width:90%;
+  }
+}

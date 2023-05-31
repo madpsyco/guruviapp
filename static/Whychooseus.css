@@ -1,0 +1,25 @@
+.row{
+    margin-top: 5%;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color: #f3f8fc;
+}
+.ImageSectionx{
+    max-width: 50%;
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+.btn{
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    background-color: rgb(20 81 128);
+}

@@ -1,0 +1,50 @@
+.rows{
+    margin:0;
+    padding:0;
+    width:100%;
+}
+.containerslider{
+width:100%;
+}
+.xcard{
+    width: 200px;
+    height: 200px;
+    background-color: #031f35;
+    color:whitesmoke;
+    margin:20px;
+    border:2px solid rgb(20 81 128);
+    border-radius: 15px;
+
+}
+.rows{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imagecourse{
+    width:60%;
+    height:60%;
+    margin: auto;
+    padding-top: 5px;
+
+    
+}
+.textcourse{
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+.choosetext{
+    text-align: center;
+}
+@media screen and (max-width: 600px) {
+    div.xcard {
+      margin:10px auto;
+
+    }
+  }
